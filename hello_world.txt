@@ -1,2 +1,2 @@
 test file
-System.out.println("Hello world");
+System.out.print("Hello world");
